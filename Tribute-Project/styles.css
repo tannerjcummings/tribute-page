@@ -1,0 +1,10 @@
+#closing{
+    border-top:solid grey 1px
+  }
+  
+  #image {
+    max-width:100%;
+    height:auto;
+  text-align:center;
+  display:block;
+  }
